@@ -1,8 +1,16 @@
-span{
+span {
     color: green;
     /* background-color:gray; */
 }
 
-#second_line{
+#second_line {
     color: rgb(76, 7, 204);
+}
+
+.myprofile {
+    background: linear-gradient(to right bottom, #6f6be9, #f02adc);
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+
 }
